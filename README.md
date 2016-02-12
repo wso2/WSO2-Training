@@ -15,6 +15,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 API Manager 1.9.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.9.1DF)
 * [WSO2 Identity Server 5.1.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.1.0DF)
 * [WSO2 Message Broker 2.1.1](https://github.com/wso2/WSO2-Training/releases/tag/MB2.1.1)
+
 =========================
 <h2>Outdated Courses</h2>
 
