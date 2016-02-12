@@ -10,4 +10,5 @@ If you have more information or suggestions for the training material, contact W
 =======================
 <h2>Courses Hosted</h2>
 
-* NA
+* [WSO2 API Manager 1.9.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.9.1DF)
+
