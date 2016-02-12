@@ -18,4 +18,4 @@ If you have more information or suggestions for the training material, contact W
 =========================
 <h2>Outdated Courses</h2>
 
-* Identity Server 5.0.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.0.0DF)
+* [Identity Server 5.0.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.0.0DF)
