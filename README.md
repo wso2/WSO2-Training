@@ -17,18 +17,17 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Data Analytics Server 3.0.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DAS300)
 * [WSO2 Data Services Server 3.1.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DSS3.1.1)
 * [WSO2 Enterprise Service Bus 4.8.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/ESB4.8.xDF)
-* [WSO2 Enterprise Service Bus 4.8.x Administration](https://github.com/wso2/WSO2-Training/releases/tag/ESB4.8.xA)
 * [WSO2 Governance Registry 5.1.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/GREG5.1.0DF)
 * [WSO2 Identity Server 5.1.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.1.0DF)
 * [WSO2 Identity Server 5.1.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS5.1.0DA)
 * [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5)
-
 
 =========================
 <h2>Outdated Courses</h2>
 
 * [WSO2 API Manager 1.9.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.9.1DF)
 * [WSO2 Business Process Server 3.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS3.2.0)
+* [WSO2 Enterprise Service Bus 4.8.x Administration](https://github.com/wso2/WSO2-Training/releases/tag/ESB4.8.xA)
 * [WSO2 Identity Server 5.0.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.0.0DF)
 * [WSO2 Message Broker 2.1.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MB2.1.1)
 
