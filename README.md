@@ -25,7 +25,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5)
 
 =========================
-<h2>Outdated Courses</h2>
+<h2>Archives</h2>
 
 * [WSO2 API Manager 1.10.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.10.0DF)
 * [WSO2 API Manager 1.9.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.9.1DF)
