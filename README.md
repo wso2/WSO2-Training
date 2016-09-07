@@ -12,7 +12,7 @@ If you have more information or suggestions for the training material, contact W
 =======================
 <h2>Latest Courses</h2>
 * [WSO2 API Manager 2.0.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM2.0.0DF)
-* [WSO2 API Manager 1.10.x Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.10.0DA)
+* [WSO2 API Manager 2.0.x Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM200DA)
 * [WSO2 Business Process Server 3.5.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS3.5.xDF)
 * [WSO2 Data Analytics Server 3.0.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DAS300)
 * [WSO2 Data Services Server 3.1.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DSS3.1.1)
@@ -28,6 +28,7 @@ If you have more information or suggestions for the training material, contact W
 <h2>Archives</h2>
 
 * [WSO2 API Manager 1.10.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.10.0DF)
+* [WSO2 API Manager 1.10.x Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.10.0DA)
 * [WSO2 API Manager 1.9.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.9.1DF)
 * [WSO2 Business Process Server 3.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS3.2.0)
 * [WSO2 Enterprise Service Bus 4.8.x Administration](https://github.com/wso2/WSO2-Training/releases/tag/ESB4.8.xA)
