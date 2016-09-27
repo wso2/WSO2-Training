@@ -11,15 +11,15 @@ If you have more information or suggestions for the training material, contact W
 
 =======================
 <h2>Latest Courses</h2>
-* [WSO2 API Manager 2.0.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM2.0.0DF)
-* [WSO2 API Manager 2.0.x Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM200DA)
-* [WSO2 Business Process Server 3.5.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS3.5.xDF)
+* [WSO2 API Manager 2.0.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM2.0.0DF)
+* [WSO2 API Manager 2.0.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM200DA)
+* [WSO2 Business Process Server 3.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS3.5.xDF)
 * [WSO2 Data Analytics Server 3.0.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DAS300)
 * [WSO2 Data Services Server 3.1.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DSS3.1.1)
 * [WSO2 Enterprise Mobility Manager 2.2.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EMM220AF)
 * [WSO2 Enterprise Mobility Manager 2.2.0 Administrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EMM220AA)
 * [WSO2 Enterprise Service Bus 5.0.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/ESB5.0.0DF)
-* [WSO2 Governance Registry 5.3.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/GREG530DF)
+* [WSO2 Governance Registry 5.3.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/GREG530DF)
 * [WSO2 Identity Server 5.1.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.1.0DF)
 * [WSO2 Identity Server 5.1.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS5.1.0DA)
 * [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5)
