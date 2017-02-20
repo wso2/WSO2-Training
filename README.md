@@ -21,7 +21,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Enterprise Service Bus 5.0.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/ESB5.0.0DF)
 * [WSO2 Enterprise Service Bus 5.0.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/ESB500DA)
 * [WSO2 Governance Registry 5.3.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/GREG530DF)
-* [WSO2 Identity Server 5.1.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.1.0DF)
+* [WSO2 Identity Server 5.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.2.0DF)
 * [WSO2 Identity Server 5.1.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS5.1.0DA)
 * [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5)
 
@@ -36,5 +36,6 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Enterprise Service Bus 4.8.x Administration](https://github.com/wso2/WSO2-Training/releases/tag/ESB4.8.xA)
 * [WSO2 Enterprise Service Bus 4.8.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/ESB4.8.xDF)
 * [WSO2 Identity Server 5.0.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.0.0DF)
+* [WSO2 Identity Server 5.1.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.1.0DF)
 * [WSO2 Message Broker 2.1.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MB2.1.1)
 
