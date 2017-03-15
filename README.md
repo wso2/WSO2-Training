@@ -23,6 +23,8 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Governance Registry 5.3.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/GREG530DF)
 * [WSO2 Identity Server 5.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS5.2.0DF)
 * [WSO2 Identity Server 5.1.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS5.1.0DA)
+* [WSO2 IoT Server 3.0.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IoTS300AF)
+* [WSO2 IoT Server 3.0.0 Administrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IoTS300AA)
 * [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5)
 
 =========================
