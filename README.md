@@ -17,6 +17,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Business Process Server 3.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS360DF)
 * [WSO2 Data Analytics Server 3.1.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DAS310)
 * [WSO2 Data Services Server 3.5.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DSS3.5.x)
+* [WSO2 Enterprise Integrator 6.1.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI611DF)
 * [WSO2 Enterprise Mobility Manager 2.2.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EMM220AF)
 * [WSO2 Enterprise Mobility Manager 2.2.0 Administrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EMM220AA)
 * [WSO2 Enterprise Service Bus 5.0.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/ESB5.0.0DF)
