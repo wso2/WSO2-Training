@@ -22,6 +22,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Identity Server 5.3.0 Administrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS530AA)
 * [WSO2 IoT Server 3.0.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IoTS300AF)
 * [WSO2 IoT Server 3.0.0 Administrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IoTS300AA)
+* [WSO2 Product Administration 2018](https://github.com/wso2/WSO2-Training/releases/tag/PA2018)
 
 =======================
 
