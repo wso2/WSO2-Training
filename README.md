@@ -14,7 +14,6 @@ If you have more information or suggestions for the training material, contact W
 
 * [WSO2 API Manager 2.1.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM210DF)
 * [WSO2 API Manager 2.1.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM210DA)
-* [WSO2 Business Process Server 3.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS360DF)
 * [WSO2 Data Analytics Server 3.1.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DAS310)
 * [WSO2 Enterprise Integrator 6.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI620DF)
 * [WSO2 Enterprise Integrator 6.1.1 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI611DA)
@@ -33,8 +32,9 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 API Manager 1.10.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.10.0DF)
 * [WSO2 API Manager 1.10.x Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.10.0DA)
 * [WSO2 API Manager 1.9.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.9.1DF)
-* [WSO2 Business Process Server 3.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS3.2.0)
+* [WSO2 Business Process Server 3.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS360DF)
 * [WSO2 Business Process Server 3.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS3.5.xDF)
+* [WSO2 Business Process Server 3.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS3.2.0)
 * [WSO2 Data Services Server 3.5.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DSS3.5.x)
 * [WSO2 Data Analytics Server 3.0.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DAS300)
 * [WSO2 Data Services Server 3.1.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DSS3.1.1)
