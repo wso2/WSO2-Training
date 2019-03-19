@@ -14,7 +14,7 @@ If you have more information or suggestions for the training material, contact W
 
 * [WSO2 API Manager 2.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM250DF)
 * [WSO2 API Manager 2.1.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM210DA)
-* [WSO2 Enterprise Integrator 6.3.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI630DF)
+* [WSO2 Enterprise Integrator 6.4.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI640DF)
 * [WSO2 Enterprise Integrator 6.3.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI630DA)
 * [WSO2 Identity Server 5.5.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS550AF)
 * [WSO2 Identity Server 5.3.0 Administrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS530AA)
@@ -43,6 +43,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Data Services Server 3.1.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/DSS3.1.1)
 * [WSO2 Enterprise Mobility Manager 2.2.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EMM220AF)
 * [WSO2 Enterprise Mobility Manager 2.2.0 Administrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EMM220AA)
+* [WSO2 Enterprise Integrator 6.3.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI630DF)
 * [WSO2 Enterprise Integrator 6.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI620DF)
 * [WSO2 Enterprise Integrator 6.2.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI620DA)
 * [WSO2 Enterprise Integrator 6.1.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI611DF)
