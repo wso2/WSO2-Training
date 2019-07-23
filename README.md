@@ -26,6 +26,7 @@ If you have more information or suggestions for the training material, contact W
 =======================
 
 <h2>Archives</h2>
+
 * [WSO2 API Manager 2.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM250DF)
 * [WSO2 API Manager 2.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM220DF)
 * [WSO2 API Manager 2.1.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM210DF)
@@ -62,4 +63,3 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Message Broker 2.1.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MB2.1.1)
 * [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5)
 * [WSO2 Product Administration 2018](https://github.com/wso2/WSO2-Training/releases/tag/PA2018)
-
