@@ -15,7 +15,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 API Manager 2.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM260DF)
 * [WSO2 API Manager 2.1.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM210DA)
 * [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF)
-* [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI650DA)
+* [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DA)
 * [WSO2 Identity Server 5.5.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS550AF)
 * [WSO2 Identity Server 5.3.0 Administrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS530AA)
 * [WSO2 IoT Server 3.0.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IoTS300AF)
