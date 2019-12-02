@@ -11,6 +11,7 @@ If you have more information or suggestions for the training material, contact W
 =========================
 <h2>Latest Courses</h2>
 
+* [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Ballerina Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFBI)
 * [WSO2 API Manager 2.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM260DF)
 * [WSO2 API Manager 2.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM260DA)
 * [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF)
