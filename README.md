@@ -13,7 +13,6 @@ If you have more information or suggestions for the training material, contact W
 
 * [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFMI)
 * [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Streaming Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFSI)
-* [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Ballerina Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFBI)
 * [WSO2 API Manager 2.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM260DF)
 * [WSO2 API Manager 2.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM260DA)
 * [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF)
@@ -36,6 +35,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 API Manager 1.10.x Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.10.0DF)
 * [WSO2 API Manager 1.10.x Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.10.0DA)
 * [WSO2 API Manager 1.9.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM1.9.1DF)
+* [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Ballerina Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFBI)
 * [WSO2 Business Process Server 3.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS360DF)
 * [WSO2 Business Process Server 3.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS3.5.xDF)
 * [WSO2 Business Process Server 3.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/BPS3.2.0)
