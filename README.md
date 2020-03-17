@@ -20,6 +20,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DA)
 * [WSO2 Identity Server 5.9.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS590AF)
 * [WSO2 Product Administration 2019](https://github.com/wso2/WSO2-Training/releases/tag/PA2019)
+* [WSO2 Open Banking - Australian CDS Compliance](https://github.com/wso2/WSO2-Training/releases/tag/OBAU)
 
 =======================
 
