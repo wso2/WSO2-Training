@@ -18,7 +18,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 API Manager 3.1 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM310DA)
 * [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF)
 * [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DA)
-* [WSO2 Identity Server 5.9.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS590AF)
+* [WSO2 Identity Server 5.10.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS510F)
 * [WSO2 Product Administration 2019](https://github.com/wso2/WSO2-Training/releases/tag/PA2019)
 * [WSO2 Open Banking - Australian CDS Compliance](https://github.com/wso2/WSO2-Training/releases/tag/OBAU)
 
@@ -59,6 +59,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Enterprise Service Bus 5.0.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/ESB5.0.0DF)
 * [WSO2 Enterprise Service Bus 5.0.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/ESB500DA)
 * [WSO2 Governance Registry 5.3.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/GREG530DF)
+* [WSO2 Identity Server 5.9.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS590AF)
 * [WSO2 Identity Server 5.5.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS550AF)
 * [WSO2 Identity Server 5.3.0 Administrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS530AA)
 * [WSO2 Identity Server 5.3.0 Administrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS530AF)
