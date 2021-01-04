@@ -8,6 +8,8 @@ WSO2 training material is shared under the [CC By 4.0](https://creativecommons.o
 
 If you have more information or suggestions for the training material, contact WSO2 Training on training@wso2.com.
 
+You can follow these self-paced courses at [WSO2 Self-Paced Training](http://lms.wso2.com/)
+
 =========================
 <h2>Latest Courses</h2>
 
