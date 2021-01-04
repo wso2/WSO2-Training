@@ -26,17 +26,11 @@ If you have more information or suggestions for the training material, contact W
 
 <h2>Archives</h2>
 * [WSO2 API Manager 3.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM30DF)
-
 * [WSO2 API Manager 2.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM260DA)
-
 * [WSO2 API Manager 2.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM260DF)
-
 * [WSO2 API Manager 2.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM250DF)
-
 * [WSO2 API Manager 2.2.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM220DF)
-
 * [WSO2 API Manager 2.1.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM210DF)
-
 * [WSO2 API Manager 2.1.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM210DA)
 
 * [WSO2 API Manager 2.0.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM2.0.0DF)
