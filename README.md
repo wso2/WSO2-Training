@@ -16,8 +16,8 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Streaming Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFSI)
 * [WSO2 API Manager 3.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DF)
 * [WSO2 API Manager 3.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DA)
-* [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF)
-* [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DA)
+* [WSO2 Enterprise Integrator 6.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei660DF)
+* [WSO2 Enterprise Integrator 6.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei660DA)
 * [WSO2 Identity Server 5.10.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS510F)
 * [WSO2 Product Administration 2019](https://github.com/wso2/WSO2-Training/releases/tag/PA2019)
 * [WSO2 Open Banking - Australian CDS Compliance](https://github.com/wso2/WSO2-Training/releases/tag/OBAU)
@@ -26,6 +26,8 @@ If you have more information or suggestions for the training material, contact W
 
 <h2>Archives</h2>
 
+* [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF)
+* [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DA)
 * [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFMI)
 * [WSO2 API Manager 3.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM310DF)
 * [WSO2 API Manager 3.1 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM310DA)
