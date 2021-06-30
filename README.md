@@ -11,11 +11,9 @@ If you have more information or suggestions for the training material, contact W
 =========================
 <h2>Latest Courses</h2>
 
-* [WSO2 API Manager 3.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DF)
-* [WSO2 API Manager 3.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DA)
+* [WSO2 API Manager 4.0 Developer Fundamentals - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DFAPIM)
+* [WSO2 API Manager 4.0 Developer Advanced- API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DAAPIM
 * [WSO2 Enterprise Integrator 7.1 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI71DFMI)
-* [WSO2 Enterprise Integrator 7.0 Developer Advanced - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DAMI)
-* [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Streaming Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFSI)
 * [WSO2 Enterprise Integrator 6.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI66DF)
 * [WSO2 Enterprise Integrator 6.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI66DA)
 * [WSO2 Identity Server 5.11.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS511F)
@@ -25,13 +23,11 @@ If you have more information or suggestions for the training material, contact W
 =======================
 
 <h2>Archives</h2>
-
-* [WSO2 API Manager 3.1 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM310DF)
-* [WSO2 API Manager 3.1 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM310DA)
-* [WSO2 API Manager 3.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM30DF)
-* [WSO2 API Manager 2.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM260DA)
-* [WSO2 API Manager 2.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM260DF)
+* [WSO2 API Manager 3.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DF)
+* [WSO2 API Manager 3.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DA)
 * [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFMI)
+* [WSO2 Enterprise Integrator 7.0 Developer Advanced - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DAMI)
+* [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Streaming Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFSI)
 * [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF)
 * [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DA)
 * [WSO2 Identity Server 5.10.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS510F)
