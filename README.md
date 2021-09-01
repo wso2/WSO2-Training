@@ -11,9 +11,10 @@ If you have more information or suggestions for the training material, contact W
 =========================
 <h2>Latest Courses</h2>
 
+* [WSO2 API Manager 4.0 Developer Fundamentals - Integration Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DFINT)
+* [WSO2 API Manager 4.0 Developer Advanced- Integration Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DAInt)
 * [WSO2 API Manager 4.0 Developer Fundamentals - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DFAPIM)
 * [WSO2 API Manager 4.0 Developer Advanced- API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DAAPIM)
-* [WSO2 Enterprise Integrator 7.1 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI71DFMI)
 * [WSO2 Enterprise Integrator 6.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI66DF)
 * [WSO2 Enterprise Integrator 6.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI66DA)
 * [WSO2 Identity Server 5.11.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS511F)
@@ -31,6 +32,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Streaming Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFSI)
 * [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF)
 * [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DA)
+* [WSO2 Enterprise Integrator 7.1 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI71DFMI)
 * [WSO2 Identity Server 5.10.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS510F)
 * [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5)
 
