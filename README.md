@@ -22,6 +22,8 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Identity Server 5.11.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS511F)
 * [WSO2 Product Administration 2019](https://github.com/wso2/WSO2-Training/releases/tag/PA2019)
 * [WSO2 Open Banking - Australian CDS Compliance](https://github.com/wso2/WSO2-Training/releases/tag/OBAU)
+* WSO2 Choreo Developer Fundamentals (https://github.com/wso2/WSO2-Training/releases/tag/CHOREOV1DF)
+
 
 =======================
 
