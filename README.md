@@ -10,7 +10,7 @@ If you have more information or suggestions for the training material, contact W
 
 =========================
 <h2>Latest Courses</h2>
-
+* [Choreo Developer Fundamentals - V2](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV2)
 * [WSO2 API Manager 4.2 Developer Fundamentals - Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFMI)
 * [WSO2 API Manager 4.2 Developer Advanced- Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAMI)
 * [WSO2 API Manager 4.2 Developer Fundamentals - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFAPIM)
@@ -45,5 +45,3 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Identity Server 5.10.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS510F)
 * [WSO2 Identity Server 5.11.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS511F)
 * [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5)
-
-
