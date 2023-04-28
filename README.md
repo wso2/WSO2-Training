@@ -10,38 +10,38 @@ If you have more information or suggestions for the training material, contact W
 
 =========================
 <h2>Latest Courses</h2>
-* [Choreo Developer Fundamentals - V2](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV2)
-* [WSO2 API Manager 4.2 Developer Fundamentals - Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFMI)
-* [WSO2 API Manager 4.2 Developer Advanced- Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAMI)
-* [WSO2 API Manager 4.2 Developer Fundamentals - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFAPIM)
-* [WSO2 API Manager 4.2 Developer Advanced - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAMI)
-* [WSO2 Enterprise Integrator 6.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI66DF)
-* [WSO2 Enterprise Integrator 6.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI66DA)
-* [WSO2 Identity Server 6.0.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS60DF)
-* [WSO2 Identity Server 6.0.0 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS60DA)
-* [WSO2 Product Administration 2019](https://github.com/wso2/WSO2-Training/releases/tag/PA2019)
+* [Choreo Developer Fundamentals - V2](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV2) <br>
+* [WSO2 API Manager 4.2 Developer Fundamentals - Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFMI)  <br>
+* [WSO2 API Manager 4.2 Developer Advanced- Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAMI) <br>
+* [WSO2 API Manager 4.2 Developer Fundamentals - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFAPIM) <br>
+* [WSO2 API Manager 4.2 Developer Advanced - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAMI) <br>
+* [WSO2 Enterprise Integrator 6.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI66DF)  <br>
+* [WSO2 Enterprise Integrator 6.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI66DA) <br>
+* [WSO2 Identity Server 6.0.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS60DF) <br>
+* [WSO2 Identity Server 6.0.0 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS60DA) <br>
+* [WSO2 Product Administration 2019](https://github.com/wso2/WSO2-Training/releases/tag/PA2019) <br>
 * [WSO2 Open Banking - Australian CDS Compliance](https://github.com/wso2/WSO2-Training/releases/tag/OBAU)
 
 
 =======================
 
 <h2>Archives</h2>
-* [WSO2 API Manager 4.1 Developer Fundamentals -  API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41DFAPIM)
-* [WSO2 API Manager 4.1 Developer Advanced- API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41DAAPIM)
-* [WSO2 API Manager 4.1 Developer Fundamentals - Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41INTDF)
-* [WSO2 API Manager 4.1 Developer Advanced- Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41INTDA)
-* [WSO2 API Manager 4.0 Developer Fundamentals - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DFAPIM)
-* [WSO2 API Manager 4.0 Developer Advanced - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DAAPIM)
-* [WSO2 API Manager 4.0 Developer Fundamentals - Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DFINT)
-* [WSO2 API Manager 4.0 Developer Advanced- Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DAInt)
-* [WSO2 API Manager 3.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DF)
-* [WSO2 API Manager 3.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DA)
-* [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFMI)
-* [WSO2 Enterprise Integrator 7.0 Developer Advanced - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DAMI)
-* [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Streaming Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFSI)
-* [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF)
-* [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DA)
-* [WSO2 Enterprise Integrator 7.1 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI71DFMI)
-* [WSO2 Identity Server 5.10.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS510F)
-* [WSO2 Identity Server 5.11.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS511F)
-* [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5)
+* [WSO2 API Manager 4.1 Developer Fundamentals -  API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41DFAPIM) <br>
+* [WSO2 API Manager 4.1 Developer Advanced- API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41DAAPIM) <br>
+* [WSO2 API Manager 4.1 Developer Fundamentals - Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41INTDF) <br>
+* [WSO2 API Manager 4.1 Developer Advanced- Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41INTDA) <br>
+* [WSO2 API Manager 4.0 Developer Fundamentals - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DFAPIM) <br>
+* [WSO2 API Manager 4.0 Developer Advanced - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DAAPIM) <br>
+* [WSO2 API Manager 4.0 Developer Fundamentals - Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DFINT) <br>
+* [WSO2 API Manager 4.0 Developer Advanced- Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DAInt) <br>
+* [WSO2 API Manager 3.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DF) <br>
+* [WSO2 API Manager 3.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DA) <br>
+* [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFMI) <br>
+* [WSO2 Enterprise Integrator 7.0 Developer Advanced - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DAMI) <br>
+* [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Streaming Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFSI) <br>
+* [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF) <br>
+* [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DA) <br>
+* [WSO2 Enterprise Integrator 7.1 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI71DFMI) <br>
+* [WSO2 Identity Server 5.10.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS510F) <br>
+* [WSO2 Identity Server 5.11.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS511F) <br>
+* [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5) <br>
