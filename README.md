@@ -17,8 +17,8 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 API Manager 4.2 Developer Advanced - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAMI) <br>
 * [WSO2 Enterprise Integrator 6.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI66DF)  <br>
 * [WSO2 Enterprise Integrator 6.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI66DA) <br>
-* [WSO2 Identity Server 6.0.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS60DF) <br>
-* [WSO2 Identity Server 6.0.0 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS60DA) <br>
+* [WSO2 Identity Server 6.1.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/download/IS61DF/WSO2IS61DF_CourseOutline.pdf) <br>
+* [WSO2 Identity Server 6.1.0 Advanced](https://github.com/wso2/WSO2-Training/releases/download/IS61DA/WSO2IS61DA_CourseOutline.pdf) <br>
 * [WSO2 Product Administration 2019](https://github.com/wso2/WSO2-Training/releases/tag/PA2019) <br>
 * [WSO2 Open Banking - Australian CDS Compliance](https://github.com/wso2/WSO2-Training/releases/tag/OBAU)
 
@@ -42,6 +42,8 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Enterprise Integrator 6.5.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DF) <br>
 * [WSO2 Enterprise Integrator 6.5.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/Ei650DA) <br>
 * [WSO2 Enterprise Integrator 7.1 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI71DFMI) <br>
+* [WSO2 Identity Server 6.0.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS60DF) <br>
+* [WSO2 Identity Server 6.0.0 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS60DA) <br>
 * [WSO2 Identity Server 5.10.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS510F) <br>
 * [WSO2 Identity Server 5.11.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS511F) <br>
 * [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5) <br>
