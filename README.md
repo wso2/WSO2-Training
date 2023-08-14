@@ -14,7 +14,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 API Manager 4.2 Developer Fundamentals - Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFMI)  <br>
 * [WSO2 API Manager 4.2 Developer Advanced- Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAMI) <br>
 * [WSO2 API Manager 4.2 Developer Fundamentals - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFAPIM) <br>
-* [WSO2 API Manager 4.2 Developer Advanced - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAMI) <br>
+* [WSO2 API Manager 4.2 Developer Advanced - API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAAPIM) <br>
 * [WSO2 Enterprise Integrator 6.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI66DF)  <br>
 * [WSO2 Enterprise Integrator 6.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI66DA) <br>
 * [WSO2 Identity Server 6.1.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS61DF)) <br>
