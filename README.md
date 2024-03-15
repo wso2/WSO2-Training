@@ -10,7 +10,7 @@ If you have more information or suggestions for the training material, contact W
 
 =========================
 <h2>Latest Courses</h2>
-* [Choreo Developer Fundamentals - V2](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV2) <br>
+* [Choreo Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV3) <br>
 * [WSO2 Micro Integrator 4.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFMI)  <br>
 * [WSO2 Micro Integrator 4.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAMI) <br>
 * [WSO2 API Manager 4.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFAPIM) <br>
@@ -26,6 +26,7 @@ If you have more information or suggestions for the training material, contact W
 =======================
 
 <h2>Archives</h2>
+* [Choreo Developer Fundamentals - V2](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV2) <br>
 * [WSO2 API Manager 4.1 Developer Fundamentals -  API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41DFAPIM) <br>
 * [WSO2 API Manager 4.1 Developer Advanced- API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41DAAPIM) <br>
 * [WSO2 API Manager 4.1 Developer Fundamentals - Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41INTDF) <br>
