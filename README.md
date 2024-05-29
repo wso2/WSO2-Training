@@ -10,22 +10,24 @@ If you have more information or suggestions for the training material, contact W
 
 =========================
 <h2>Latest Courses</h2>
-* [Choreo Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV3) <br>
+* [WSO2 API Manager 4.3 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM430DF) <br>
+* [WSO2 API Manager 4.3 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM430DA) <br>
+* [WSO2 Identity Server 7.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS70DF)) <br>
+* [WSO2 Identity Server 7.0 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS70DA) <br>
 * [WSO2 Micro Integrator 4.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFMI)  <br>
 * [WSO2 Micro Integrator 4.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAMI) <br>
-* [WSO2 API Manager 4.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFAPIM) <br>
-* [WSO2 API Manager 4.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAAPIM) <br>
-* [WSO2 Enterprise Integrator 6.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI66DF)  <br>
-* [WSO2 Enterprise Integrator 6.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI66DA) <br>
-* [WSO2 Identity Server 6.1.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS61DF)) <br>
-* [WSO2 Identity Server 6.1.0 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS61DA) <br>
-* [WSO2 Product Administration 2019](https://github.com/wso2/WSO2-Training/releases/tag/PA2019) <br>
-* [WSO2 Open Banking - Australian CDS Compliance](https://github.com/wso2/WSO2-Training/releases/tag/OBAU)
-
 
 =======================
-
 <h2>Archives</h2>
+* [WSO2 Identity Server 6.1.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS61DF)) <br>
+* [WSO2 Identity Server 6.1.0 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS61DA) <br>
+* [WSO2 Enterprise Integrator 6.6.0 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/EI66DF)  <br>
+* [WSO2 Enterprise Integrator 6.6.0 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/EI66DA) <br>
+* [Choreo Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV3) <br>
+* [WSO2 Product Administration 2019](https://github.com/wso2/WSO2-Training/releases/tag/PA2019) <br>
+* [WSO2 Open Banking - Australian CDS Compliance](https://github.com/wso2/WSO2-Training/releases/tag/OBAU)
+* [WSO2 API Manager 4.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFAPIM) <br>
+* [WSO2 API Manager 4.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAAPIM) <br>
 * [Choreo Developer Fundamentals - V2](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV2) <br>
 * [WSO2 API Manager 4.1 Developer Fundamentals -  API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41DFAPIM) <br>
 * [WSO2 API Manager 4.1 Developer Advanced- API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41DAAPIM) <br>
