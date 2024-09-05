@@ -10,6 +10,8 @@ If you have more information or suggestions for the training material, contact W
 
 =========================
 <h2>Latest Courses</h2>
+* [WSO2 Micro Integrator 4.3 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI43DF) <br>
+* [WSO2 Micro Integrator 4.3 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI43DA) <br>
 * [WSO2 API Manager 4.3 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM430DF) <br>
 * [WSO2 API Manager 4.3 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM430DA) <br>
 * [WSO2 Identity Server 7.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS70DF)) <br>
