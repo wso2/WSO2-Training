@@ -10,8 +10,8 @@ If you have more information or suggestions for the training material, contact W
 
 =========================
 <h2>Latest Courses</h2>
-* [WSO2 API Manager 4.4 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM440DF) <br>
-* [WSO2 API Manager 4.4 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM440DA) <br>
+* [WSO2 API Manager 4.5 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DF) <br>
+* [WSO2 API Manager 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DA) <br>
 * [WSO2 Identity Server 7.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS70DF) <br>
 * [WSO2 Identity Server 7.0 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS70DA) <br>
 * [WSO2 Micro Integrator 4.4 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI44DF) <br>
@@ -19,6 +19,8 @@ If you have more information or suggestions for the training material, contact W
 
 =======================
 <h2>Archives</h2>
+* [WSO2 API Manager 4.4 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM440DF) <br>
+* [WSO2 API Manager 4.4 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM440DA) <br>
 * [WSO2 API Manager 4.3 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM430DF) <br>
 * [WSO2 API Manager 4.3 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM430DA) <br>
 * [WSO2 API Manager 4.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFAPIM) <br>
