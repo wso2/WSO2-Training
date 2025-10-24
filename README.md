@@ -14,8 +14,8 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 API Manager 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DA) <br>
 * [WSO2 Identity Server 7.1 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS71DF) <br>
 * [WSO2 Identity Server 7.1 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS71DA) <br>
-* [WSO2 Micro Integrator 4.4 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI44DF) <br>
-* [WSO2 Micro Integrator 4.4 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI44DA)) <br>
+* [WSO2 Micro Integrator 4.5 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI45DF) <br>
+* [WSO2 Micro Integrator 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI45DA)) <br>
 
 =======================
 <h2>Archives</h2>
@@ -53,6 +53,8 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Identity Server 6.0.0 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS60DA) <br>
 * [WSO2 Identity Server 5.10.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS510F) <br>
 * [WSO2 Identity Server 5.11.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS511F) <br>
+* [WSO2 Micro Integrator 4.4 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI44DF) <br>
+* [WSO2 Micro Integrator 4.4 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI44DA)) <br>
 * [WSO2 Micro Integrator 4.3 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI43DF) <br>
 * [WSO2 Micro Integrator 4.3 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI43DA) <br>
 * [WSO2 Micro Integrator 4.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFMI)  <br>
