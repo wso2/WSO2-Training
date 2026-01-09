@@ -10,6 +10,7 @@ If you have more information or suggestions for the training material, contact W
 
 =========================
 <h2>Latest Courses</h2>
+* [WSO2 Integrator: BI and Devant](https://github.com/wso2/WSO2-Training/releases/tag/BID2025) <br>
 * [WSO2 API Manager 4.5 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DF) <br>
 * [WSO2 API Manager 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DA) <br>
 * [WSO2 Identity Server 7.1 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS71DF) <br>
