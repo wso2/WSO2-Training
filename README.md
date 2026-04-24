@@ -2,11 +2,11 @@
 
 <h1>WSO2 Standard Training Material</h1>
 
-Welcome to the home of WSO2 training material. You can follow these self-paced courses at [WSO2 Self-Paced Training](http://lms.wso2.com/).
+Welcome to the WSO2 Training Materials repository. The Training Platform (LMS) is currently under maintenance and will be back shortly. In the meantime, you can access the latest course content below.
 
 WSO2 training material is shared under the [CC By 4.0](https://creativecommons.org/licenses/by/4.0/) and can be used as desired as long as it is attributed to WSO2.  The curriculum is copyrighted to WSO2 and should not be modified but can be used as a base document.
 
-If you have more information or suggestions for the training material, contact WSO2 Training on training@wso2.com.
+If you need more information or have any suggestions please contact WSO2 Training on training@wso2.com.
 
 =========================
 
