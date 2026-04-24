@@ -1,25 +1,31 @@
-
 ========================================
+
 <h1>WSO2 Standard Training Material</h1>
 
-Welcome to the home of WSO2 training material. You can follow these self-paced courses at [WSO2 Self-Paced Training](http://lms.wso2.com/).
+Welcome to the WSO2 Training Materials repository. The Training Platform (LMS) is currently under maintenance and will be back shortly. In the meantime, you can access the latest course content below.
 
 WSO2 training material is shared under the [CC By 4.0](https://creativecommons.org/licenses/by/4.0/) and can be used as desired as long as it is attributed to WSO2.  The curriculum is copyrighted to WSO2 and should not be modified but can be used as a base document.
 
-If you have more information or suggestions for the training material, contact WSO2 Training on training@wso2.com.
+If you need more information or have any suggestions please contact WSO2 Training on training@wso2.com.
 
 =========================
+
 <h2>Latest Courses</h2>
-* [WSO2 Integrator: Ballerina Integrator and Devant](https://github.com/wso2/WSO2-Training/releases/tag/BID2025) <br>
+* [WSO2 Integrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IF2026) <br>
+* [WSO2 Integrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IA2026) <br>
+* [WSO2 Micro Integrator 4.6 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI46DF) <br>
+* [WSO2 Micro Integrator 4.6 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI46DA) <br>
 * [WSO2 API Manager 4.6 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM46DF)<br>
 * [WSO2 API Manager 4.6 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM46DA)<br>
 * [WSO2 Identity Server 7.1 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS71DF) <br>
 * [WSO2 Identity Server 7.1 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS71DA) <br>
-* [WSO2 Micro Integrator 4.6 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI45DF) <br>
-* [WSO2 Micro Integrator 4.6 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI45DA)) <br>
+* [WSO2 Integrator: Ballerina Integrator and Devant](https://github.com/wso2/WSO2-Training/releases/tag/BID2025) <br>
 
-=======================
+=========================
+
 <h2>Archives</h2>
+* [WSO2 Micro Integrator 4.5 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI45DF) <br>
+* [WSO2 Micro Integrator 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI45DA) <br>
 * [WSO2 API Manager 4.5 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DF) <br>
 * [WSO2 API Manager 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DA) <br>
 * [WSO2 API Manager 4.4 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM440DF) <br>
