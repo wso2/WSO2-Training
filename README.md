@@ -21,6 +21,7 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Identity Server 7.1 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS71DA) <br>
 * [WSO2 Integrator: Ballerina Integrator and Devant](https://github.com/wso2/WSO2-Training/releases/tag/BID2025) <br>
 
+
 =======================
 
 <h2>Archives</h2>
