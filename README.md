@@ -9,17 +9,23 @@ WSO2 training material is shared under the [CC By 4.0](https://creativecommons.o
 If you have more information or suggestions for the training material, contact WSO2 Training on training@wso2.com.
 
 =========================
+
 <h2>Latest Courses</h2>
-* [WSO2 Integrator: Ballerina Integrator and Devant](https://github.com/wso2/WSO2-Training/releases/tag/BID2025) <br>
+* [WSO2 Integrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IF2026) <br>
+* [WSO2 Integrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IA2026) <br>
+* [WSO2 Micro Integrator 4.6 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI46DF) <br>
+* [WSO2 Micro Integrator 4.6 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI46DA) <br>
 * [WSO2 API Manager 4.6 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM46DF)<br>
 * [WSO2 API Manager 4.6 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM46DA)<br>
 * [WSO2 Identity Server 7.1 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS71DF) <br>
 * [WSO2 Identity Server 7.1 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS71DA) <br>
-* [WSO2 Micro Integrator 4.6 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI45DF) <br>
-* [WSO2 Micro Integrator 4.6 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI45DA)) <br>
+* [WSO2 Integrator: Ballerina Integrator and Devant](https://github.com/wso2/WSO2-Training/releases/tag/BID2025) <br>
 
 =======================
+
 <h2>Archives</h2>
+* [WSO2 Micro Integrator 4.5 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI45DF) <br>
+* [WSO2 Micro Integrator 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI45DA)) <br>
 * [WSO2 API Manager 4.5 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DF) <br>
 * [WSO2 API Manager 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DA) <br>
 * [WSO2 API Manager 4.4 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM440DF) <br>
@@ -65,3 +71,5 @@ If you have more information or suggestions for the training material, contact W
 * [WSO2 Open Banking - Australian CDS Compliance](https://github.com/wso2/WSO2-Training/releases/tag/OBAU)
 * [WSO2 Product Administration 2019](https://github.com/wso2/WSO2-Training/releases/tag/PA2019) <br>
 * [WSO2 Product Administration](https://github.com/wso2/WSO2-Training/releases/tag/PA4.4.5) <br>
+
+=======================
