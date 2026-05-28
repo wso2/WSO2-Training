@@ -2,7 +2,7 @@
 
 <h1>WSO2 Standard Training Material</h1>
 
-Welcome to the WSO2 Training Materials repository. The Training Platform (LMS) is currently under maintenance and will be back shortly. In the meantime, you can access the latest course content below.
+Welcome to the WSO2 Training Materials repository. Visit our Training Portal at [training.wso2.com](https://training.wso2.com) to access all our latest courses for free.
 
 WSO2 training material is shared under the [CC By 4.0](https://creativecommons.org/licenses/by/4.0/) and can be used as desired as long as it is attributed to WSO2.  The curriculum is copyrighted to WSO2 and should not be modified but can be used as a base document.
 
