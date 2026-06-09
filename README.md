@@ -11,21 +11,20 @@ If you need more information or have any suggestions please contact WSO2 Trainin
 =========================
 
 <h2>Latest Courses</h2>
+* [WSO2 API Manager 4.7 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM47DF)<br>
+* [WSO2 API Manager 4.7 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM47DA)<br>
+* [WSO2 Identity Server 7.3 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS73DF) <br>
+* [WSO2 Identity Server 7.3 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS73DA) <br>
+* [WSO2 Integrator: Ballerina Integrator and Devant](https://github.com/wso2/WSO2-Training/releases/tag/BID2025) <br>
 * [WSO2 Integrator Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IF2026) <br>
 * [WSO2 Integrator Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IA2026) <br>
 * [WSO2 Micro Integrator 4.6 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI46DF) <br>
 * [WSO2 Micro Integrator 4.6 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI46DA) <br>
-* [WSO2 API Manager 4.6 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM46DF)<br>
-* [WSO2 API Manager 4.6 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM46DA)<br>
-* [WSO2 Identity Server 7.1 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS71DF) <br>
-* [WSO2 Identity Server 7.1 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS71DA) <br>
-* [WSO2 Integrator: Ballerina Integrator and Devant](https://github.com/wso2/WSO2-Training/releases/tag/BID2025) <br>
-
 =========================
 
 <h2>Archives</h2>
-* [WSO2 Micro Integrator 4.5 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI45DF) <br>
-* [WSO2 Micro Integrator 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI45DA) <br>
+* [WSO2 API Manager 4.6 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM46DF)<br>
+* [WSO2 API Manager 4.6 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM46DA)<br>
 * [WSO2 API Manager 4.5 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DF) <br>
 * [WSO2 API Manager 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM45DA) <br>
 * [WSO2 API Manager 4.4 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM440DF) <br>
@@ -34,7 +33,6 @@ If you need more information or have any suggestions please contact WSO2 Trainin
 * [WSO2 API Manager 4.3 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM430DA) <br>
 * [WSO2 API Manager 4.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DFAPIM) <br>
 * [WSO2 API Manager 4.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM420DAAPIM) <br>
-* [Choreo Developer Fundamentals - V2](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV2) <br>
 * [WSO2 API Manager 4.1 Developer Fundamentals -  API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41DFAPIM) <br>
 * [WSO2 API Manager 4.1 Developer Advanced- API Management Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41DAAPIM) <br>
 * [WSO2 API Manager 4.1 Developer Fundamentals - Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM41INTDF) <br>
@@ -45,6 +43,7 @@ If you need more information or have any suggestions please contact WSO2 Trainin
 * [WSO2 API Manager 4.0 Developer Advanced- Micro Integrator Profile](https://github.com/wso2/WSO2-Training/releases/tag/APIM40DAInt) <br>
 * [WSO2 API Manager 3.2 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DF) <br>
 * [WSO2 API Manager 3.2 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/APIM320DA) <br>
+* [Choreo Developer Fundamentals - V2](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV2) <br>
 * [Choreo Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/CHOREODFV3) <br>
 * [WSO2 Enterprise Integrator 7.0 Developer Fundamentals - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DFMI) <br>
 * [WSO2 Enterprise Integrator 7.0 Developer Advanced - Micro Integrator](https://github.com/wso2/WSO2-Training/releases/tag/EI70DAMI) <br>
@@ -62,6 +61,8 @@ If you need more information or have any suggestions please contact WSO2 Trainin
 * [WSO2 Identity Server 6.0.0 Advanced](https://github.com/wso2/WSO2-Training/releases/tag/IS60DA) <br>
 * [WSO2 Identity Server 5.10.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS510F) <br>
 * [WSO2 Identity Server 5.11.0 Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/IS511F) <br>
+* [WSO2 Micro Integrator 4.5 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI45DF) <br>
+* [WSO2 Micro Integrator 4.5 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI45DA) <br>
 * [WSO2 Micro Integrator 4.4 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI44DF) <br>
 * [WSO2 Micro Integrator 4.4 Developer Advanced](https://github.com/wso2/WSO2-Training/releases/tag/MI44DA)) <br>
 * [WSO2 Micro Integrator 4.3 Developer Fundamentals](https://github.com/wso2/WSO2-Training/releases/tag/MI43DF) <br>
